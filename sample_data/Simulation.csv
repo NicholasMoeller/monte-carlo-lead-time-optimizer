@@ -1,0 +1,9 @@
+Product,Line Name,Avg Demand,Std Dev,Line Capacity,Line Start Backlog,Queuing LT (Equal),Varying LT (Risk-Based),Longest Material LT (Cold Start),Toxic Threshold (System Buffer),Max Safe Order Qty,Large Order Quantity,Large Order LT Quote
+Product A,Line 1,,,10,5,,,20
+Product B,Line 1,,,10,5,,,15
+Product C,Line 1,,,10,5,,,25
+Product D,Line 2,,,15,0,,,10
+Product E,Line 2,,,15,0,,,12
+Product F,Line 3,,,8,2,,,8
+Product G,Line 3,,,8,2,,,5
+Product H,Line 3,,,8,2,,,10
